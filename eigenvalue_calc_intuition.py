@@ -80,7 +80,7 @@ for i in range(0, gx+gy):
 ax.axis('equal') # make the plot aspect ratio = 1
 ax.set_facecolor('k') # background color = black
 plt.xlabel('Linear Transform of $A - \lambda  I$')
-plt.title('Blue grids: unit grid after transformation of $A - \lambda  I$\n' +\
+plt.title('Grids: unit grid after transformation of $A - \lambda  I$\n' +\
           'Red circle: unit circle $u$ before transformation\n' +\
           'Blue ellipse: unit circle after transformation: $(A - \lambda  I)u$')
 tbox_1_t = '' # lambda value update text placeholder
