@@ -2,7 +2,7 @@
 Hosts code for playing with math
 
 # What are we doing when we calculating eigen values?
-This script animates the matrix \[A - lambda * I\] as a linear transformation for unit circle and unit grids. Animation follows the idea of 3Blue1Bronwn, but no where close to Grant's quality.
+This script animates the matrix \[A - lambda * I\] as a linear transformation for unit circle and unit grids. 
 
 For A = \[2 0; 0 3\]
 ![Eigenvalue calculation animation](gif_png/animation_2_0_0_3.gif)
